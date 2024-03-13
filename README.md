@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kush and I'm a Programmer, from Ontario,Canada</p>
+<p align="left">My name is Kush and I'm a Software Developer, from Ontario,Canada</p>
 
 ###
 
