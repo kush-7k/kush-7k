@@ -4,6 +4,8 @@
 
 <p align="left">My name is Kush and I'm a Software Developer, from Ontario,Canada</p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udit3944&label=Profile%20views&color=0e75b6&style=flat" alt="udit3944" /> </p>
+
 ###
 
 <h2 align="left">About me</h2>
